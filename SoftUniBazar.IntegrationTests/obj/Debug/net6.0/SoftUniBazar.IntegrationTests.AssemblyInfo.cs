@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftUniBazar.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9976a87d2cc9eee55f96e0a2ee27ac125063a6b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca13f76884873e5d3e466d10a12e76410d80701")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftUniBazar.IntegrationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftUniBazar.IntegrationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
